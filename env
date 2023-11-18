@@ -1,0 +1,11 @@
+GOOGLE_ID=728517466523-fhcrgqte44e6aaevk8k6jfbktfp7i7n1.apps.googleusercontent.com
+
+GOOGLE_CLIENT_SECRET=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
+
+NEXTAUTH_URL=https://promptopia-on80r5ekh-deewakar28s-projects.vercel.app
+
+NEXTAUTH_URL_INTERNAL=https://promptopia-on80r5ekh-deewakar28s-projects.vercel.app
+
+MONGODB_URI=mongodb+srv://Deewakar_Rao:bdrao090705@cluster0.pteau9w.mongodb.net/?retryWrites=true&w=majority
+
+NEXTAUTH_SECRET=Br2V0E1ZMDXgNmlvFQjLGf/jCYBxam72PYJqmY8Lgh4=
